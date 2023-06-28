@@ -1,2 +1,2 @@
 # learn-express-js
-"Sistem bank sampah sederhana" for the study case 
+Bali Dev Camp Final Project. "Sistem bank sampah sederhana" for the study case 
